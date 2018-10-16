@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasarParametrosEntreActovitys</string>
+    <string name="botonRegresas">Regresas</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="Nombre1">Nombre</string>
+    <string name="Nombre2">nombre</string>
+</resources>
